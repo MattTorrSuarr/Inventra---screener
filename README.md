@@ -1,1 +1,6 @@
-<img width="544" height="128" alt="image" src="https://github.com/user-attachments/assets/39065fb5-2b9f-4391-8b73-1e22f2ef45e3" />
+<img width="827" height="172" alt="image" src="https://github.com/user-attachments/assets/fb66564f-26c6-4fe1-a652-7af8df1b63d7" />
+
+# Inventra — Screener
+
+
+We are a software company allowing people to find winning products.
